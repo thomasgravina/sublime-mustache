@@ -1,0 +1,5 @@
+Default*
+.DS_Store
+Package Control.sublime-settings
+Preferences.sublime-settings
+*.pyc
